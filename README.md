@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Saikat Roy</h1>
-<h3 align="center">DevOps | DataOps</h3>
+<h3 align="center">DevOps | Site Reliability Engineer | Software Engineer</h3>
 
 - Certifications [AWS CLF C02](https://drive.google.com/file/d/1seTBWVybpwGN9ULJC9pBdS_6KHXYZeb-/view?usp=drive_link)
 
 - Certifications [AWS Data Engineer](https://drive.google.com/file/d/1jRnCZ1MumFB0Lcm-EgeVtzSdFugQpdfY/view?usp=drive_link)
 
-- 📫 How to reach me **roysk0825@gmail.com** | **saikatroy97@outlook.com**
+- 📫 How to reach me **saikatroy97@outlook.com**
 
 
 
