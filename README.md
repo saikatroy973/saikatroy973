@@ -1,3 +1,101 @@
+::: minipage
+**Saikat Roy**\
+DevOps Engineer / Site Reliability Engineer\
+India Male\
++91 7047265894\
+<saikatroy97@outlook.com>
+:::
+
+::: minipage
+![image](./profile.jpg){width="2.6cm" height="2.6cm"}
+:::
+
+# Professional Summary
+
+DevOps Engineer with 2+ years of hands-on experience automating CI/CD
+pipelines, managing cloud infrastructure, and operating event-streaming
+platforms with **Apache Kafka**. Skilled in containerization,
+infrastructure as code, and observability. Improved deployment
+reliability and reduced costs through automation and proactive incident
+response. Strong collaborator who bridges development and operations
+teams to ship software faster and more safely.
+
+# Technical Skills
+
+  -------------------------------- ----------------------------------------------------------------------------------------------
+  **Streaming & Messaging**        Apache Kafka (brokers, topics, partitions, consumer groups, Kafka Connect, Schema Registry),
+  **Cloud Platforms**              AWS (EC2, S3, IAM, VPC, RDS, Lambda, CloudWatch, MSK), Azure, GCP
+  **Containers & Orchestration**   Docker, Kubernetes, Helm
+  **CI/CD**                        Jenkins, GitHub Actions
+  **Infrastructure as Code**       Terraform, Ansible, CloudFormation
+  **Observability**                Prometheus, Grafana, ELK Stack, CloudWatch
+  **Scripting & Languages**        Bash, Python, YAML
+  **Databases**                    MySQL, PostgreSQL
+  **Version Control**              Git, GitHub, GitLab
+  **Operating Systems**            Linux
+  **Networking**                   DNS, Load Balancing, TCP/IP, VPN, Firewalls
+  -------------------------------- ----------------------------------------------------------------------------------------------
+
+# Professional Experience
+
+**DevOps Engineer** **2+ years**\
+*Tech Mahindra* *India*
+
+- Operated and tuned **Apache Kafka** clusters (topic design,
+  partitioning, replication, and consumer-group management) supporting
+  real-time data pipelines across multiple services.
+
+- Built **Kafka Connect** pipelines and managed schemas via Schema
+  Registry to reliably stream data between source systems and downstream
+  consumers.
+
+- Automated CI/CD pipelines with GitHub Actions and Jenkins, integrating
+  automated testing, image scanning, and rolling deployments to
+  Kubernetes.
+
+- Supported migration of on-premises applications to AWS,
+
+- Built Docker images and managed container registries for development
+  and staging environments.
+
+- Set up centralized logging with the **ELK Stack** and metrics/alerting
+  with **Prometheus + Grafana**, improving mean time to resolution.
+
+- and **Terraform** modules to standardize server and cloud-resource
+  provisioning across environments.
+
+- Configured and maintained Linux servers, including patching, user
+  management, and performance tuning.
+
+# Projects
+
+**Real-Time Streaming Pipeline with Kafka**\
+Designed an event-streaming pipeline using Apache Kafka and Kafka
+Connect, with monitoring of consumer lag and broker health via
+Prometheus and Grafana for proactive scaling.
+
+**Automated CI/CD Pipeline**\
+End-to-end pipeline (GitHub Actions $\rightarrow$ Docker $\rightarrow$
+Kubernetes) with automated testing, image scanning, and rolling
+deployments; Slack notifications for build status and deployment
+approvals.
+
+# Certifications
+
+- AWS Certified Cloud Practitioner (CLF-C02)
+
+- AWS Certified Data Engineer
+
+# Education
+
+**B.Tech in Computer Science (EQF Level 6)** **2021**\
+*MAKAUT* *India*
+
+# Languages
+
+- English (Professional)
+
+- German
 <h1 align="center">Hi, I'm Saikat Roy</h1>
 <h3 align="center">DevOps | Site Reliability Engineer | Software Engineer</h3>
 
