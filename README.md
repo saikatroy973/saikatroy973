@@ -4,7 +4,7 @@
 
 - Certifications [AWS CLF C02](https://drive.google.com/file/d/1seTBWVybpwGN9ULJC9pBdS_6KHXYZeb-/view?usp=drive_link)
 
-- Certifications [AWS Data Engineer](https://drive.google.com/file/d/1jRnCZ1MumFB0Lcm-EgeVtzSdFugQpdfY/view?usp=drive_link)
+- Certifications [GCP Certified Professional Cloud Developer](https://drive.google.com/file/d/17j4daiUaEu9NCXtIv1qKp7NRtweSONxL/view?usp=drive_link)
 
 - 📫 How to reach me **saikatroy97@outlook.com**
 
