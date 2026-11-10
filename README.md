@@ -4,9 +4,9 @@
 
 - Certifications [AWS CLF C02](https://drive.google.com/file/d/1seTBWVybpwGN9ULJC9pBdS_6KHXYZeb-/view?usp=drive_link)
 
-- Certifications [Azure Data Funtamentals (AZ-900)](https://drive.google.com/file/d/1Hy9KuiydCzOCKQ6bK5oqsAlqp0DyFtYA/view?usp=sharing)
+- Certifications [GCP Certified Cloud Engineer](https://drive.google.com/file/d/17j4daiUaEu9NCXtIv1qKp7NRtweSONxL/view?usp=drive_link)
 
-- 📫 How to reach me **saikatroy97@outlook.com**
+- 📫 How to reach me **roysk0825@gmail.com**
 
 
 
